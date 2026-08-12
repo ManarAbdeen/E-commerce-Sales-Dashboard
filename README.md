@@ -36,10 +36,14 @@ An interactive Power BI dashboard designed to analyze e-commerce sales performan
 
 ---
 
-## 📁 Repository Structure
+## 📁 Dataset Used
 
-```text
-├── Details (1).csv          # Order details including Amount, Profit, Quantity, Category, Sub-Category & Payment Mode
-├── Orders (1).csv           # Customer demographics, Order Dates, Cities, and States
-├── 6046563162879889148.jpg  # Dashboard Visual Preview Image
-└── README.md                # Project Overview & Documentation
+* [Orders Dataset](https://github.com/ManarAbdeen/E-commerce-Sales-Dashboard/blob/main/Orders%20(1).csv): Contains customer demographics, order dates, cities, and states.
+* [Details Dataset](https://github.com/ManarAbdeen/E-commerce-Sales-Dashboard/blob/main/Details%20(1).csv): Contains order details including amount, profit, quantity, category, sub-category, and payment mode.
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+* **Power BI Desktop:** Data modeling, DAX measures, and dynamic dashboard visualization.
+* **Microsoft Excel / CSV Data Sources:** Structured sales transaction datasets.
